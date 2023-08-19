@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-camera",
-  "version": "7.0.0-dev",
+  "version": "7.0.1",
   "description": "Cordova Camera Plugin",
   "types": "./types/index.d.ts",
   "cordova": {
@@ -56,7 +56,7 @@
         "cordova": ">=9.0.0"
       },
       "7.0.0": {
-        "cordova-android": ">=10.0.0",
+        "cordova-android": ">=11.0.0",
         "cordova-ios": ">=5.1.0",
         "cordova": ">=9.0.0"
       },
